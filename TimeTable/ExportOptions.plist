@@ -8,6 +8,8 @@
 	<true/>
 	<key>stripSwiftSymbols</key>
 	<true/>
+	<key>teamID</key>
+	<string>S4WSR7K3TZ</string>
 	<key>thinning</key>
 	<string>&lt;thin-for-all-variants&gt;</string>
 </dict>
