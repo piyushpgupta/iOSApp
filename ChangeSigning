@@ -1,6 +1,6 @@
 #Signing from Automatically to using certificate mode
-s / Automatic / Manual / g
-s / iPhone Developer / iPhone Distribution / g
-# Configure provisioning profile 
-s / PROVISIONING_PROFILE =  "" ; / PROVISIONING_PROFILE =  "3901de59-ad12-4776-b9f7-452ad7ad1e2c" ; / g
-s / PROVISIONING_PROFILE_SPECIFIER =  "" ; / PROVISIONING_PROFILE_SPECIFIER =  “timetable” ; / g
+s/Automatic/Manual/g
+s/iPhone Developer/iPhone Distribution/g
+#Configure provisioning profile 
+s/PROVISIONING_PROFILE =  "" ;/PROVISIONING_PROFILE =  "3901de59-ad12-4776-b9f7-452ad7ad1e2c";/g
+s/PROVISIONING_PROFILE_SPECIFIER =  "" ;/PROVISIONING_PROFILE_SPECIFIER =  “timetable” ;/g
