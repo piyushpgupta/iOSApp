@@ -1,4 +1,4 @@
-Switch #Signing from Automatically to using certificate mode
+#Signing from Automatically to using certificate mode
 s / Automatic / Manual / g
 s / iPhone Developer / iPhone Distribution / g
 # Configure provisioning profile 
